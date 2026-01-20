@@ -1,4 +1,4 @@
-/*// User selects: [1] Load PDF
+// User selects: [1] Load PDF
 → Calls pdf-reader.js to extract text
 → Calls chunker.js to split text
 → Calls embeddings.js to create vectors
@@ -64,4 +64,4 @@ Day 4: embeddings.js (create vectors)
 Day 5: (just save to JSON - no new file)
 Day 6: search.js (find similar)
 Day 7: chat.js (talk to LLM)
-Day 8: index.js (put it all together!) */
+Day 8: index.js (put it all together!)
